@@ -3,5 +3,4 @@ uvicorn
 requests
 python-dotenv
 groq
-redis
 PyJWT==2.8.0
